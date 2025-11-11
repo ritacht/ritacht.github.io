@@ -31,6 +31,7 @@ h1, h2 {
 }
 
 
+
 .social-icons .social-icon {
     background-color: #400601;
 }
@@ -61,4 +62,24 @@ a {
 }
 a:hover {
   color:  #8C6542;
+}
+
+
+h3 .icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2rem;
+  width: 2rem;
+  background-color: #400601;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1rem;
+  margin-right: 1rem;
+}
+h3 .icon:last-child {
+  margin-right: 0;
+}
+h3 .icon:hover {
+  background-color:  #731B07;
 }
