@@ -30,9 +30,6 @@ h1, h2 {
     color: #731B07;
 }
 
-a {
-    text-decoration: none;
-}
 
 .social-icons .social-icon {
     background-color: #400601;
@@ -56,4 +53,12 @@ nav {
 
 .mb-0  {
     color:#400601
+}
+
+a {
+  color:#400601;
+  text-decoration: none;
+}
+a:hover {
+  color:  #8C6542;
 }
