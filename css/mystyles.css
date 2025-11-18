@@ -311,3 +311,7 @@ section.resume-section {
     max-width: 100%;
     object-fit: cover;
 }
+
+.timeline-container .mb-5 {
+    margin-bottom: 2rem !important; 
+}
